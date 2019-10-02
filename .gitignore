@@ -1,2 +1,13 @@
 node_modules
 .env
+practice
+
+/sql-scripts/create.blogful.sql
+/sql-scripts/create.whopipe-and-amazong.sql
+/sql-scripts/seed.blogful.sql
+/sql-scripts/seed.whopipe-and-amazong.sql
+
+src/articles-service.js
+src/blogful.js
+
+/test/articles-service.test.js
